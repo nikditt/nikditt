@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 I'm a working on this profile...
 
 ## 🔗 Links
+https://ko-fi.com/nikditt
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
